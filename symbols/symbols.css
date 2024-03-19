@@ -1,0 +1,48 @@
+body{
+    background-color: orange;
+}
+p{
+    font-size: 50px;
+}
+.p1{
+    background-color: forestgreen;
+    color: yellow;
+    text-align: center;
+}
+.p2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.p3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+.p4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
+.p5{
+    font-family: cursive;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-underline-position: under;
+    text-decoration-color: blue;
+}
+.p6{
+    font-family: "Rubik Doodle Triangles", system-ui;
+    text-shadow: 0 0 15px green;
+}
+.p7{
+    font-family: "Rubik Glitch Pop", system-ui;
+    text-shadow: 2px 2px green, 4px -4px violet;
+}
+.p8{
+    font-family: "Lobster", system-ui;
+}
+.p9{
+    text-transform: uppercase;
+}
+.s1{
+    font-size: 1.5em;
+    color: purple;
+    font-family: "Rubik Burned", system-ui;
+}
